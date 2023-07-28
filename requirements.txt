@@ -1,0 +1,5 @@
+basicsr
+streamlit
+matplotlib
+opencv-python
+pillow
